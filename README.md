@@ -5,7 +5,7 @@
 - 📫 Me contate pelo email: souzaricardo.professionaldev@gmail.com
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ze_ricardo_dev58?igsh=M3A5aTVsZjFjOGF1)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-ricardo-de-souza-89b23a273/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-ricardo-de-souza-89b23a273)
 
 
 
