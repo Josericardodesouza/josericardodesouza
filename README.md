@@ -11,7 +11,7 @@
 
 
 
-![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=josericardodesouza&show_icons=true&theme=cobalt)
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=joser.desouza&show_icons=true&theme=cobalt)
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
