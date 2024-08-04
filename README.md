@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Visit my portfolio: "https://portfoliosouzajricardodev.netlify.app/"</p>
+<p align="left">Visit my portfolio: https://portfoliosouzajricardodev.netlify.app/</p>
  
 
 ###
