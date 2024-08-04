@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/josericardodesouza/josericardodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
