@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">Visit my portfolio: https://portfoliosouzajricardodev.netlify.app/</p>
- 
+<p align="left">Visit my portfolio: https://portfoliojosericardosouzadev.netlify.app/</p>
 
 ###
 
@@ -27,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -42,13 +43,7 @@
 
 ###
 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josericardodesouza&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/josericardodesouza/josericardodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
